@@ -2,6 +2,8 @@
 Information and configuration of esp-easy.pl in can module R2S2.
 
 Pinout:
+RELAY 1 - K1 - L1- GPIO 4
+RELAY 2 - K2 - L2- GPIO 13
 
 TOP:
 <img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/IN%20CAN%20CONECTION%20V2.0.png" alt="IN CAN MODULE V2.0">
