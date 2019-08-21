@@ -28,4 +28,6 @@ Supla instlation:
 2. Flash blank image to ESP8266 
 3. Flash Supla incan-easy image
 4. Find a new Supla WiFi network nearby
-5. Congirue your project
+5. Configrue your project:
+<img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/EXAMPLE%20SUPLA%20CONFIG.png" alt="SUPLA CONFIG">
+
