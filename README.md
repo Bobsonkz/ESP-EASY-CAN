@@ -24,7 +24,7 @@ BOTTOM:
 
 Supla instlation:
 1. Find out how much eeprom memory has your ESP8266 module.
-- V2.0 version with ESP07 chip have 1MB of eeprom memeory.
+- V2.0 version with ESP07 chip have 1MB of eeprom memory.
 2. Flash blank image to ESP8266 
 3. Flash Supla incan-easy image
 4. Find a new Supla WiFi network nearby
