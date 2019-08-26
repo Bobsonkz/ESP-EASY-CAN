@@ -16,10 +16,10 @@ Pin name   | Primary function        | Additional function         |
 
 <BR> <BR>
 TOP:
-<img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/IN%20CAN%20CONECTION%20V2.0.png" alt="IN CAN MODULE V2.0">
+<img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/IN%20CAN%20CONECTION%20V2.0.png" alt="IN CAN MODULE V2.0" width="400">
 
 BOTTOM:
-<img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/IN%20CAN%20CONECTION%20V2.0%20-%20BOTTOM.png" alt="IN CAN MODULE V2.0">
+<img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/IN%20CAN%20CONECTION%20V2.0%20-%20BOTTOM.png" alt="IN CAN MODULE V2.0" width="400">
 
 Supla instlation:
 1. Find out how much eeprom memory has your ESP8266 module.
