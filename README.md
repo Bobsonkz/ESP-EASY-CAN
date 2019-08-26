@@ -1,28 +1,19 @@
 # ESP-EASY-CAN
 Information and configuration of esp-easy.pl in can module R2S2.
 
-
-Firmware name                                 | Hardware                | Included plugins            |
-----------------------------------------------|-------------------------|-----------------------------|
-
 Pinout:
-<BR><BR>
-RELAY1-K1-L1=GPIO 13
-<BR>
-RELAY2-K2-L2=GPIO 4
-<BR>
-SWITCH1-S1-GPIO14
-<BR>
-SWITCH2-S2-GPIO12
- <BR>
-I2C-SCL-GPIO2 / OR ADDTIONAL SWITCH, THERMOMENTER ETC. 
-<BR>
-I2C-SDA-GPIO5 / OR ADDTIONAL SWITCH, THERMOMENTER ETC. 
-<BR>
-TX-GPIO1  / OR ADDTIONAL SWITCH, THERMOMENTER ETC. 
-<BR>
-RX-GPIO3  / OR ADDTIONAL SWITCH, THERMOMENTER ETC.   
- 
+
+Pin name   | Primary function        | Additional function         |
+-----------|-------------------------|-----------------------------|
+ GPIO 13   | RELAY1-K1-L1            | No                          | 
+ GPIO 4    | RELAY2-K2-L2            | No                          | 
+ GPIO 14   | SWITCH1-S1              | No                          | 
+ GPIO 12   | SWITCH2-S2              | No                          |  
+ GPIO 2    |I2C-SCL                  | SWITCH, THERMOMENTER ETC    |
+ GPIO 5    |I2C-SDA                  | SWITCH, THERMOMENTER ETC    |
+ GPIO 1    |TX                       | SWITCH, THERMOMENTER ETC    |
+ GPIO 3    |RX                       | SWITCH, THERMOMENTER ETC    |
+
 <BR> <BR>
 TOP:
 <img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/IN%20CAN%20CONECTION%20V2.0.png" alt="IN CAN MODULE V2.0">
