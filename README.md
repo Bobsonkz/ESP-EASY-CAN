@@ -1,6 +1,9 @@
 # ESP-EASY-CAN
 Information and configuration of esp-easy.pl in can module R2S2.
-
+<center>
+<img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/R2S2%20V2.0%20Board.jpg" alt="IN CAN MODULE V2.0" width="300">
+</center>
+<br>
 Pinout:
 
 Pin name   | Primary function        | Additional function         |
