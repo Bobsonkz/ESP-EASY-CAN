@@ -29,7 +29,7 @@ Typical connection:
  Light bulbs                                                     | Roller shutter                                            |
 -----------------------------------------------------------------|-----------------------------------------------------------|
 <img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/Typical%20connection%20-%20light%20bulbs.png" alt="IN CAN MODULE V2.0" width="400">|<img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/Typical%20connection%20-%20roller%20shutter.png" alt="IN CAN MODULE V2.0" width="400">|
-
+ 
 Supla instlation:
 1. Find out how much eeprom memory has your ESP8266 module.
 - V2.0 version with ESP07 chip have 1MB of eeprom memory.
