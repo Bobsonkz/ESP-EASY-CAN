@@ -26,7 +26,9 @@ PCb design:
 <img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/IN%20CAN%20CONECTION%20V2.0.png" alt="IN CAN MODULE V2.0" width="400">|<img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/IN%20CAN%20CONECTION%20V2.0%20-%20BOTTOM.png" alt="IN CAN MODULE V2.0" width="400">|
 
 Typical connection:
-
+ Light bulbs                                                     | Roller shutter                                            |
+-----------------------------------------------------------------|-----------------------------------------------------------|
+<img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/Typical%20connection%20-%20light%20bulbs.png" alt="IN CAN MODULE V2.0" width="400">|<img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/Typical%20connection%20-%20roller%20shutter.png" alt="IN CAN MODULE V2.0" width="400">|
 
 Supla instlation:
 1. Find out how much eeprom memory has your ESP8266 module.
