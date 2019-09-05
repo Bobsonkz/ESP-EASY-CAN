@@ -37,6 +37,7 @@ Supla instlation:
 2. Flash blank image to ESP8266 
 
 2. Flash esp_init_data_default.bin acording to your memory size:
+
 Address     | Memory size     |
 ------------|-----------------|
  0x7c000  | 512 kB |
