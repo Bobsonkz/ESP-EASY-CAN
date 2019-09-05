@@ -39,12 +39,12 @@ Supla instlation:
 2. Flash esp_init_data_default.bin acording to your memory size:
 Address     | Memory size     |
 ------------|-----------------|
-| 0x7c000  | 512 kB |
-| 0xfc000  | 1 MB |
-| 0x1fc000 | 2 MB |
-| 0x3fc000 | 4 MB |
-| 0x7fc000 | 8 MB |
-| 0xffc000 | 16 MB |
+ 0x7c000  | 512 kB |
+ 0xfc000  | 1 MB |
+ 0x1fc000 | 2 MB |
+ 0x3fc000 | 4 MB |
+ 0x7fc000 | 8 MB |
+ 0xffc000 | 16 MB |
 
 4. Flash Supla incan-easy image
 5. Find a new Supla WiFi network nearby
