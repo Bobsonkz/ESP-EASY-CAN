@@ -36,7 +36,7 @@ Supla instlation:
 - V2.0 version with ESP07 chip have 1MB of eeprom memory.
 2. Flash blank image to ESP8266 
 
-2. Flash esp_init_data_default.bin acording to your memory size:
+2. Flash <a href="https://github.com/espressif/ESP8266_AT/blob/master/bin/esp_init_data_default.binurl">esp_init_data_default.bin</a> acording to your memory size:
 
 Address     | Memory size     |
 ------------|-----------------|
