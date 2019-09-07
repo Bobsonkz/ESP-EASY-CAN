@@ -34,9 +34,10 @@ Typical connection:
 Supla instlation:
 1. Find out how much eeprom memory has your ESP8266 module.
 - V2.0 version with ESP07 chip have 1MB of eeprom memory.
-2. Flash blank image to ESP8266 
+2. Download ESP flasher for example <a href="http://www.14core.com/flashing-upgrade-eps8266-v1-firmware-with-espressif-flash-tool/"> Flash Download Tools Version 2.4 /a> and confirgure project like this:
 
-2. Flash <a href="https://github.com/SUPLA/ESP8266/blob/master/esp_init_data_default.bin">esp_init_data_default.bin</a> acording to your memory size:
+3. Flash blank image to ESP8266  
+4. Flash <a href="https://github.com/SUPLA/ESP8266/blob/master/esp_init_data_default.bin">esp_init_data_default.bin</a> acording to your memory size:
 
 Address     | Memory size     |
 ------------|-----------------|
@@ -47,8 +48,8 @@ Address     | Memory size     |
  0x7fc000 | 8 MB |
  0xffc000 | 16 MB |
 
-4. Flash Supla incan-easy image
-5. Find a new Supla WiFi network nearby
-6. Configrue your project:
+5. Flash Supla incan-easy image
+6. Find a new Supla WiFi network nearby
+7. Configrue your project:
 <img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/EXAMPLE%20SUPLA%20CONFIG.png" alt="SUPLA CONFIG">
 
