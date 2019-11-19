@@ -49,7 +49,13 @@ Address     | Memory size     |
  0xffc000 | 16 MB |
 
 5. Flash Supla <a href="https://github.com/Espablo/SUPLA_Firmware/tree/master/inCan_Easy">incan-easy</a>
+6. Register on <a href="https://cloud.supla.org/login">SUPLA CLOUD</a>  website
 6. Find a new Supla WiFi network nearby
 7. Configrue your project:
 <img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/EXAMPLE%20SUPLA%20CONFIG.png" alt="SUPLA CONFIG">
+8. Connect the board according to the settings to keep the correct directions
 
+Direction   | Button          |
+------------|-----------------|
+DOWN        | S2,L2           |
+UP          | S1,L1           |
