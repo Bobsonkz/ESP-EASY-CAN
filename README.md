@@ -50,12 +50,13 @@ Address     | Memory size     |
 
 5. Flash Supla <a href="https://github.com/Espablo/SUPLA_Firmware/tree/master/inCan_Easy">incan-easy</a>
 6. Register on <a href="https://cloud.supla.org/login">SUPLA CLOUD</a>  website
-6. Find a new Supla WiFi network nearby
-7. Configrue your project:
+7. Find a new Supla WiFi network nearby
+8. Configrue your project:
+- SET BUTTON CONFIG AS "GPIO 14" AND "10x"
 <img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/EXAMPLE%20SUPLA%20CONFIG.png" alt="SUPLA CONFIG">
-- SET BUTTON CONFIG AS "GPIO 14" AND "10x" 
+ 
 
-8. Connect the board according to the settings to keep the correct directions
+9. Connect the board according to the settings to keep the correct directions
 
 Function    | Button          |
 ------------|-----------------|
