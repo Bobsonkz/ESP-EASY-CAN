@@ -53,9 +53,11 @@ Address     | Memory size     |
 6. Find a new Supla WiFi network nearby
 7. Configrue your project:
 <img src="https://github.com/Bobsonkz/ESP-EASY-CAN/blob/master/EXAMPLE%20SUPLA%20CONFIG.png" alt="SUPLA CONFIG">
+- SET BUTTON CONFIG AS "GPIO 14" AND "10x" 
 8. Connect the board according to the settings to keep the correct directions
 
-Direction   | Button          |
+Function    | Button          |
 ------------|-----------------|
 DOWN        | S2,L2           |
 UP          | S1,L1           |
+CONFIG      | S1 (PUSCH x 10) |
